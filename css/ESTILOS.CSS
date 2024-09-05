@@ -6,3 +6,14 @@
 .color-enlace{
     color: rgb(255, 255, 255);
 }
+
+.jumbotron{
+    background-image: url("../img/imagen.jpg");
+    background-size: cover;
+    color: white;
+}
+
+
+.hr{
+    background-color: white;
+}
